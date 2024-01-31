@@ -15,6 +15,3 @@ if __name__ == "__main__":
     print(count(5, 1, 100)) # 100
     print(count(2, 3, 1)) # 0
     print(count(2, 3, 9)) # 4
-
-  git config --global user.email "liao.zhenyu.zl@gmail.com"
-  git config --global user.name "Zheniitti"
